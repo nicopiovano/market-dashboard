@@ -1,0 +1,17 @@
+{
+  "source": "mock-local",
+  "updatedAt": "2026-02-01T12:00:00Z",
+  "items": [
+    { "ticker": "AAPL", "name": "Apple", "sector": "Tecnología", "ratio": 10, "priceArs": 2775, "changeDailyPct": 4.2 },
+    { "ticker": "TSLA", "name": "Tesla", "sector": "Automotriz", "ratio": 15, "priceArs": 2158, "changeDailyPct": 1.5 },
+    { "ticker": "MSFT", "name": "Microsoft", "sector": "Tecnología", "ratio": 10, "priceArs": 3120, "changeDailyPct": 2.1 },
+    { "ticker": "AMZN", "name": "Amazon", "sector": "Consumo", "ratio": 20, "priceArs": 1895, "changeDailyPct": -0.8 },
+    { "ticker": "GOOGL", "name": "Alphabet", "sector": "Tecnología", "ratio": 20, "priceArs": 1650, "changeDailyPct": 0.6 },
+    { "ticker": "KO", "name": "Coca-Cola", "sector": "Consumo", "ratio": 5, "priceArs": 1120, "changeDailyPct": -0.3 },
+    { "ticker": "XOM", "name": "Exxon Mobil", "sector": "Energía", "ratio": 10, "priceArs": 1340, "changeDailyPct": 0.9 },
+    { "ticker": "NVDA", "name": "NVIDIA", "sector": "Semiconductores", "ratio": 30, "priceArs": 4120, "changeDailyPct": 3.7 },
+    { "ticker": "JPM", "name": "JPMorgan", "sector": "Finanzas", "ratio": 8, "priceArs": 1460, "changeDailyPct": 0.2 },
+    { "ticker": "WMT", "name": "Walmart", "sector": "Retail", "ratio": 8, "priceArs": 1280, "changeDailyPct": -0.4 }
+  ]
+}
+
